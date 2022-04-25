@@ -3,6 +3,7 @@
 Are you an aspiring Flutter app developer? Or an already experienced developer looking for a good template to make your life easier? Then this article is for you both. 2022 has come and the new era of Flutter templates has arrived. Please welcome the new collection of the best free templates. Here you'll find e-commerce app templates, banking apps, weather apps, and more.
 
 &nbsp;
+<iframe width="875" height="492" src="https://www.youtube.com/embed/SPTgvsf12Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 <h2>1. <a href="https://code.market/product/hungry-free-flutter-recipe-app/?utm_source=medium&utm_github=article&utm_campaign=40++free+flutter+templates"><b>Hungry</b></a></h2>
